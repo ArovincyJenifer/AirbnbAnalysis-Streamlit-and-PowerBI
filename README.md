@@ -11,7 +11,7 @@ This Streamlit application provides an interactive map of Airbnb listings with v
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
+- [LeaningsTakeaway](#LearningsTakeaway)
 
 ## Features
 
