@@ -14,7 +14,11 @@ This Streamlit application provides an interactive map of Airbnb listings with v
 - [LeaningsTakeaway](#LearningsTakeaway)
 
 ## Features
-
+- Get the Data from Airbnb Github as JSON file
+- Load the data into DataFrame using Pandas and stored the DF
+- Extract the 7 different DataFrames as per our needs
+- Load the DataFrames into MySQL
+- Retrieve the Data from MySQL and displays to User
 - Interactive map with ScatterplotLayer
 - Filters for  property type, review scores, country, and host location
 - Tooltips showing detailed information for each listing
