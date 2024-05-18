@@ -44,21 +44,21 @@ To run this application, you need Python and some required packages. Follow thes
     pip install -r requirements.txt
 
     import json
-import csv
-import pandas as pd
-import pydeck as pdk
+    import csv
+    import pandas as pd
+    import pydeck as pdk
 
-import numpy as np  # np mean, np random
-import pandas as pd  # read csv, df manipulation
-import plotly.express as px  # interactive charts
-import streamlit as st
+    import numpy as np  # np mean, np random
+    import pandas as pd  # read csv, df manipulation
+    import plotly.express as px  # interactive charts
+    import streamlit as st
 
-from sqlalchemy import create_engine
-import sqlalchemy
-from streamlit import connections
-import pymysql
-import streamlit as st
-import plotly.graph_objects as go
+    from sqlalchemy import create_engine
+    import sqlalchemy
+    from streamlit import connections
+    import pymysql
+    import streamlit as st
+    import plotly.graph_objects as go
     ```
 
 ## Usage
